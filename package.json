@@ -2,7 +2,11 @@
   "name": "codestats",
   "displayName": "CodeStats",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "KryptonFox",
+  "author": {
+    "name": "KryptonFox"
+  },
   "repository": {
     "url": "https://github.com/KryptonFox/codestats"
   },
